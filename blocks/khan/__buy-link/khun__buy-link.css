@@ -1,0 +1,11 @@
+.khun__buy-link{
+    text-decoration: none;
+    line-height: 42px;
+    font-size: 30px;
+    font-weight: normal;
+    transition: opacity 0.3s easy-in-out;
+  }
+
+  .khun__buy-link:hover{
+    opacity: 0.3;
+  }
