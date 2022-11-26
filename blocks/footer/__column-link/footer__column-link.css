@@ -1,7 +1,7 @@
 .footer__column-link{
     text-decoration: none;
     color: white;
-    transition: opacity 0.3s easy-in-out;
+    transition: opacity 0.3s linear;
   }
 
   .footer__column-link:hover{

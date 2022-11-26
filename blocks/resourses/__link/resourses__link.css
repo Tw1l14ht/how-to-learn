@@ -1,6 +1,6 @@
 .resourses__link{
     text-decoration: none;
-    transition: opacity 0.3s easy-in-out;
+    transition: opacity 0.3s linear;
   }
 
   .resourses__link:hover{
